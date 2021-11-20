@@ -1,7 +1,7 @@
 name: bluetool
-description: A new flutter plugin project.
+description: A Flutter plugin for Bluetooth communication, scanning, etc.
 version: 0.0.1
-homepage:
+repository: https://github.com/francis94c/bluetool
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
